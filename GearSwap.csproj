@@ -9,8 +9,8 @@
     <ProjectGuid>{91AB81DE-EAEE-47D1-93DD-541179208219}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WeaponSwap</RootNamespace>
-    <AssemblyName>WeaponSwap</AssemblyName>
+    <RootNamespace>GearSwap</RootNamespace>
+    <AssemblyName>GearSwap</AssemblyName>
     <TargetFrameworks>net35</TargetFrameworks>
     <FileAlignment>512</FileAlignment>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
@@ -116,15 +116,6 @@
     <Message Importance="High" Text="Mod Exported to $(GamePath)GadgetCore\Mods\$(AssemblyName)_v$(AssemblyFileVersion).zip" />
   </Target>
   <ItemGroup>
-    <None Update="Assets\WeaponSwap">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\WeaponSwap.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\WeaponSwapItem.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Update="Manifest.ini">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

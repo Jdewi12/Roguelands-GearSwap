@@ -1,1 +1,1 @@
-Selecting a weapon on your hotbar swaps it with your active.
+Selecting a piece of gear on your hotbar swaps it with your active gear of the same type.

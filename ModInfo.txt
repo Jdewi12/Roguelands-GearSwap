@@ -1,0 +1,1 @@
+Selecting a weapon on your hotbar swaps it with your active.
